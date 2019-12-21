@@ -1,4 +1,9 @@
 =======================
+OnePlus 7T Oxygen OS 10.0.6/OnePlus 7T Pro Oxygen OS 10.0.6
+=======================
+- no update -
+
+=======================
 OnePlus 7T Oxygen OS 10.0.4/OnePlus 7T Pro Oxygen OS 10.0.4
 =======================
 - no update -
